@@ -1,0 +1,4 @@
+repository "My project 2025-08-03_16-34-32/gtag ripoff@2475297425621@cloud"
+  path "/"
+    br "/main"
+    co "/main"
